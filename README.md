@@ -31,8 +31,7 @@ class SemanuSebuava:
         self.learning = ["Java", "Data Science", "AI/ML"]
         
     def get_fun_fact(self):
-        return "My username is inspired by electrical resistance (Ohm), " \
-               "but my passion for learning has zero resistance! ⚡"
+        return "I don't know how to dance, but I dance anyway! 💃🕺"
 ```
 
 <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
@@ -95,9 +94,13 @@ class SemanuSebuava:
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ohm-Kel/Ohm-Kel/output/github-snake-dark.svg" alt="Snake animation"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ohm-Kel/Ohm-Kel/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ohm-Kel/Ohm-Kel/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Ohm-Kel/Ohm-Kel/output/github-snake-dark.svg" />
+</picture>
+
+> ⚠️ **Note:** To enable the snake animation, you need to set up the GitHub Action. See instructions below.
 
 ---
 
@@ -125,7 +128,7 @@ class SemanuSebuava:
 </p>
 
 <p align="center">
-  <i>⚡ "My username is inspired by electrical resistance (Ohm), but my passion for learning has zero resistance!"</i>
+  <i>💃 "I don't know how to dance, but I dance anyway!" 🕺</i>
 </p>
 
 <p align="center">
