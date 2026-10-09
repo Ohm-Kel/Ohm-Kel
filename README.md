@@ -32,6 +32,35 @@ class Semanu:
         return "I don't know how to dance, but I dance anyway! 💃🕺"
 ```
 
+## ⭐ Featured project
+
+### [Consulting Research Copilot](https://github.com/Ohm-Kel/consulting-research-copilot)
+
+Answers business questions about company annual reports with **page-level citations**, and
+declines when the reports don't support an answer.
+
+- **Hybrid retrieval:** BM25 + vector search, fused and re-ranked by a cross-encoder
+- **Agent:** plain-Python tool-calling loop with a calculator tool and guardrails
+- **Evaluation in CI:** evidence-level scoring with confidence intervals; the build fails if retrieval quality drops
+
+| Held-out questions | Result |
+|---|---|
+| Answer passage in top 5 results | **90%** |
+| Answers citing a supporting page | **20 / 20** |
+| Calculations correct | **5 / 5** |
+| Faithfulness (RAGAS) | **0.93** |
+
+`Python` `FastAPI` `Chroma` `sentence-transformers` `Docker` `GitHub Actions`
+
+## 🧰 Also built
+
+| Project | What it does |
+|---|---|
+| [python-js-template](https://github.com/kose-labs/python-js-template) | KoSe Labs project template: FastAPI + React/TypeScript, CI, Dependabot, secret scanning |
+| [student-verification-bot](https://github.com/Ohm-Kel/student-verification-bot) | Verifies Computer Engineering freshmen and admits them to official WhatsApp groups (Flask, Selenium) |
+| [student_record_system](https://github.com/Ohm-Kel/student_record_system) | Record system with CLI, Tkinter and Streamlit interfaces, search/sort algorithms and tests |
+| [SavingsTracker](https://github.com/Ohm-Kel/SavingsTracker) | Expo + TypeScript savings tracker with charts and light/dark themes |
+
 ## 🛠️ Tech Stack
 
 **AI / ML:** retrieval-augmented generation, hybrid search and reranking, tool-calling agents, LLM evaluation
