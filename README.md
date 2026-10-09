@@ -9,13 +9,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ohm-Kel&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-  <a href="https://github.com/Ohm-Kel?tab=followers">
-    <img src="https://img.shields.io/github/followers/Ohm-Kel?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Ohm-Kel&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views"/>
 </p>
-
----
 
 ## 🧑‍💻 About Me
 
@@ -34,17 +29,11 @@ class SemanuSebuava:
         return "I don't know how to dance, but I dance anyway! 💃🕺"
 ```
 
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
 - 🔭 Currently working on **ACES Website**
 - 🌱 Learning **Java, Data Science, and AI/ML**
 - 👯 Open to collaborate on **Tech projects and anything that intrigues me**
 - 🤝 Seeking guidance in **AI & Machine Learning**
 - 📫 Reach me: **semanusebuava@gmail.com**
-
-<br clear="right"/>
-
----
 
 ## 🛠️ Tech Stack
 
@@ -52,38 +41,20 @@ class SemanuSebuava:
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,django,git,github,vscode,linux&perline=12" alt="Tech Stack"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ohm-Kel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ohm-Kel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=stars,issues" alt="GitHub stats"/>
   <img width="49%" src="https://streak-stats.demolab.com/?user=Ohm-Kel&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ohm-Kel&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
----
 
 ## 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ohm-Kel/Ohm-Kel/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ohm-Kel/Ohm-Kel/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Ohm-Kel/Ohm-Kel/output/github-snake-dark.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Ohm-Kel/Ohm-Kel/output/github-snake-dark.svg" />
 </picture>
-
----
 
 ## 🤝 Connect With Me
 
@@ -91,24 +62,11 @@ class SemanuSebuava:
   <a href="mailto:semanusebuava@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/Ohm-Kel">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
   <a href="https://www.linkedin.com/in/sebuava-semanu">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-</p>
-
-<p align="center">
-  <i>💃 "I don't know how to dance, but I dance anyway!" 🕺</i>
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt=""/>
 </p>
