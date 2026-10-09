@@ -10,11 +10,6 @@
   <img src="https://komarev.com/ghpvc/?username=Ohm-Kel&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views"/>
 </p>
 
-I have an undying thirst for technology. When something new comes out, I want to know how it
-works, and then I want to build something with it. Right now that thirst is for AI. I'm doing a
-Master's at JUNIA in France and feeding my curiosity one project at a time: build, learn,
-unlearn, relearn, repeat.
-
 ## 🧑‍💻 About Me
 
 ```python
