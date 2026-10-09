@@ -40,7 +40,6 @@ class SemanuSebuava:
 - 🌱 Learning **Java, Data Science, and AI/ML**
 - 👯 Open to collaborate on **Tech projects and anything that intrigues me**
 - 🤝 Seeking guidance in **AI & Machine Learning**
-- 👨‍💻 Portfolio: [semanusebuava.me](https://semanusebuava.me/)
 - 📫 Reach me: **semanusebuava@gmail.com**
 
 <br clear="right"/>
@@ -67,27 +66,11 @@ class SemanuSebuava:
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ohm-Kel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ohm-Kel&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img width="49%" src="https://streak-stats.demolab.com/?user=Ohm-Kel&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ohm-Kel&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ohm-Kel&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ohm-Kel&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 </p>
 
 ---
@@ -100,8 +83,6 @@ class SemanuSebuava:
   <img alt="github-snake" src="https://raw.githubusercontent.com/Ohm-Kel/Ohm-Kel/output/github-snake-dark.svg" />
 </picture>
 
-> ⚠️ **Note:** To enable the snake animation, you need to set up the GitHub Action. See instructions below.
-
 ---
 
 ## 🤝 Connect With Me
@@ -109,9 +90,6 @@ class SemanuSebuava:
 <p align="center">
   <a href="mailto:semanusebuava@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://semanusebuava.me/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
   <a href="https://github.com/Ohm-Kel">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
