@@ -1,44 +1,43 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Semanu%20Kwaku%20Sebuava&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Prev%20SWE%20Intern%20@%20AmaliTech%20|%20Computer%20Engineering%20@%20KNUST&descSize=18&descAlignY=52"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Semanu%20Kwaku%20Sebuava&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Master's%20in%20AI%20%C2%B7%20Computer%20Engineering%20%C2%B7%20Forever%20curious&descSize=18&descAlignY=52" alt="Semanu Kwaku Sebuava"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Ohm-Kel">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=650&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Software+Engineer+from+Ghana+%F0%9F%87%AC%F0%9F%87%AD;Prev+SWE+Intern+%40+AmaliTech+%F0%9F%92%BC;Computer+Engineering+%40+KNUST+%F0%9F%8E%93;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=650&lines=Hi%2C+I%27m+Semanu+%F0%9F%91%8B;Master%27s+student+in+AI+%40+JUNIA%2C+France;Computer+Engineering+%40+KNUST%2C+Ghana;Building+AI+that+answers+from+evidence;Running+on+an+undying+thirst+for+tech+%E2%9A%A1" alt="Hi, I'm Semanu. Master's student in AI @ JUNIA, France. Computer Engineering @ KNUST, Ghana."/>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ohm-Kel&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views"/>
 </p>
 
+I have an undying thirst for technology. When something new comes out, I want to know how it
+works, and then I want to build something with it. Right now that thirst is for AI. I'm doing a
+Master's at JUNIA in France and feeding my curiosity one project at a time: build, learn,
+unlearn, relearn, repeat.
+
 ## 🧑‍💻 About Me
 
 ```python
-class SemanuSebuava:
+class Semanu:
     def __init__(self):
-        self.name = "Semanu Kwaku Sebuava"
-        self.username = "Ohm-Kel"
-        self.location = "Ghana 🇬🇭"
-        self.education = "Computer Engineering @ KNUST"
+        self.based_in = "France, from Ghana"
+        self.studying = "Master's in AI @ JUNIA"
+        self.background = "Computer Engineering @ KNUST"
         self.experience = "Prev SWE Intern @ AmaliTech"
-        self.current_project = "ACES Website"
-        self.learning = ["Java", "Data Science", "AI/ML"]
-        
-    def get_fun_fact(self):
+        self.building = ["Consulting Research Copilot", "KoSe Labs"]
+        self.exploring = ["LLM agents", "retrieval", "evaluation"]
+        self.thirst_for_tech = float("inf")
+
+    def fun_fact(self) -> str:
         return "I don't know how to dance, but I dance anyway! 💃🕺"
 ```
 
-- 🔭 Currently working on **ACES Website**
-- 🌱 Learning **Java, Data Science, and AI/ML**
-- 👯 Open to collaborate on **Tech projects and anything that intrigues me**
-- 🤝 Seeking guidance in **AI & Machine Learning**
-- 📫 Reach me: **semanusebuava@gmail.com**
-
 ## 🛠️ Tech Stack
 
+**AI / ML:** retrieval-augmented generation, hybrid search and reranking, tool-calling agents, LLM evaluation
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,django,git,github,vscode,linux&perline=12" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,githubactions,ts,react,nextjs,java,spring,aws,linux,git&perline=12" alt="Python, FastAPI, Docker, GitHub Actions, TypeScript, React, Next.js, Java, Spring, AWS, Linux, Git"/>
 </p>
 
 ## 📊 GitHub Stats
