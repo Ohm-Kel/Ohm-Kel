@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Semanu%20Kwaku%20Sebuava&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Master's%20in%20AI%20%C2%B7%20Computer%20Engineering%20%C2%B7%20Forever%20curious&descSize=18&descAlignY=52" alt="Semanu Kwaku Sebuava"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=180&section=header&text=Build%20%C2%B7%20Learn%20%C2%B7%20Unlearn%20%C2%B7%20Relearn%20%C2%B7%20Repeat&fontSize=34&fontColor=fff&animation=fadeIn&fontAlignY=34&desc=Semanu%20Kwaku%20Sebuava%20%C2%B7%20Master%27s%20in%20AI%20%40%20JUNIA&descSize=18&descAlignY=54" alt="Build, learn, unlearn, relearn, repeat. Semanu Kwaku Sebuava, Master's in AI @ JUNIA"/>
 </p>
 
 <p align="center">
@@ -91,5 +91,5 @@ declines when the reports don't support an answer.
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt=""/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=footer" alt=""/>
 </p>
