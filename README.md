@@ -51,10 +51,10 @@ declines when the reports don't support an answer.
 
 | Project | What it does |
 |---|---|
-| [BorderlessCV](https://github.com/Ohm-Kel/borderlesscv) | AI résumé builder for early-career applicants: country-aware résumés, AI-assisted bullets and cover letters that don't invent facts, PDF export (Next.js, Prisma, OpenAI) |
-| [Trackit](https://github.com/Ohm-Kel/trackit) | AI deadline tracker for students: chat with an assistant that knows your workload, upload a timetable and it imports itself (React, Supabase, Claude) |
+| [BorderlessCV](https://github.com/Ohm-Kel/borderlesscv) · [live](https://borderlesscv.vercel.app) | AI résumé builder for early-career applicants: country-aware résumés, AI-assisted bullets and cover letters that don't invent facts, PDF export (Next.js, Prisma, OpenAI) |
+| [Trackit](https://github.com/Ohm-Kel/trackit) · [live](https://trackit-app-smoky.vercel.app) | AI deadline tracker for students: chat with an assistant that knows your workload, upload a timetable and it imports itself (React, Supabase, Claude) |
 | [AgricConnect](https://github.com/AgriKorn/AgricConnect) | Farm marketplace with on-device crop-freshness scanning (TFLite in Flutter); I built the scan integration, delivery dispatch, sign-in and deployment |
-| [ACES website](https://github.com/acesknust/aces-website) | Website for ACES KNUST with an awards nomination system; I wrote over half of its 300+ commits (TypeScript, Django) |
+| [ACES website](https://github.com/acesknust/aces-website) · [live](https://acesknust.vercel.app) | Website for ACES KNUST with an awards nomination system; I wrote over half of its 300+ commits (TypeScript, Django) |
 | [SavingsTracker](https://github.com/Ohm-Kel/SavingsTracker) | Expo + TypeScript savings tracker with charts, light/dark themes and tests |
 
 ## 🛠️ Tech Stack
