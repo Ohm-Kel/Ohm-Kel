@@ -51,10 +51,11 @@ declines when the reports don't support an answer.
 
 | Project | What it does |
 |---|---|
-| [python-js-template](https://github.com/kose-labs/python-js-template) | KoSe Labs project template: FastAPI + React/TypeScript, CI, Dependabot, secret scanning |
-| [student-verification-bot](https://github.com/Ohm-Kel/student-verification-bot) | Verifies Computer Engineering freshmen and admits them to official WhatsApp groups (Flask, Selenium) |
-| [student_record_system](https://github.com/Ohm-Kel/student_record_system) | Record system with CLI, Tkinter and Streamlit interfaces, search/sort algorithms and tests |
-| [SavingsTracker](https://github.com/Ohm-Kel/SavingsTracker) | Expo + TypeScript savings tracker with charts and light/dark themes |
+| [BorderlessCV](https://github.com/Ohm-Kel/borderlesscv) | AI résumé builder for early-career applicants: country-aware résumés, AI-assisted bullets and cover letters that don't invent facts, PDF export (Next.js, Prisma, OpenAI) |
+| [Trackit](https://github.com/Ohm-Kel/trackit) | AI deadline tracker for students: chat with an assistant that knows your workload, upload a timetable and it imports itself (React, Supabase, Claude) |
+| [AgricConnect](https://github.com/AgriKorn/AgricConnect) | Farm marketplace with on-device crop-freshness scanning (TFLite in Flutter); I built the scan integration, delivery dispatch, sign-in and deployment |
+| [ACES website](https://github.com/acesknust/aces-website) | Website for ACES KNUST with an awards nomination system; I wrote over half of its 300+ commits (TypeScript, Django) |
+| [SavingsTracker](https://github.com/Ohm-Kel/SavingsTracker) | Expo + TypeScript savings tracker with charts, light/dark themes and tests |
 
 ## 🛠️ Tech Stack
 
